@@ -72,7 +72,3 @@ The models were compared based on evaluation metrics to identify the best-perfor
 
 ---
 
-## **How to Run**
-1. Install required libraries:
-   ```bash
-   pip install pandas numpy scikit-learn nltk
